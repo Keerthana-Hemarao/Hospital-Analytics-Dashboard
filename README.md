@@ -22,22 +22,22 @@ The dashboard helps hospital management:
 ## Dashboard Preview
 
 ### **🔹 Home Page**
-![image alt](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/6b073612ea34ea22a1eb82a179ef1731f61f0370/Hospital%20Analytics%20Overview.png)
+![image alt](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/eedb93f63bb6f03d8ce1c72a5fe3978c9508ab4d/Hospital%20Analytics%20Main%20Page.png)
 
 ### **🔹 Overview Dashboard**
-![Overview](Images/[overview.png](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/main/Hospital%20Analytics%20Overview.png))
+![image alt](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/6b073612ea34ea22a1eb82a179ef1731f61f0370/Hospital%20Analytics%20Overview.png)
 
 ### **🔹 Patient Insights**
-![Patient]([Images/patient.png](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/main/Hospital%20Analytics%20Patient.png))
+![Patient](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/eedb93f63bb6f03d8ce1c72a5fe3978c9508ab4d/Hospital%20Analytics%20Patient.png)
 
 ### **🔹 Doctor Performance**
-![Doctor]([Images/doctor.png](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/main/Hospital%20Analytics%20Doctor.png))
+![Doctor](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/eedb93f63bb6f03d8ce1c72a5fe3978c9508ab4d/Hospital%20Analytics%20Doctor.png)
 
 ### **🔹 Hospital Operations**
-![Operations]([Images/hospital.png](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/main/Hospital%20Analytics%20Hospital.png))
+![Operations](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/eedb93f63bb6f03d8ce1c72a5fe3978c9508ab4d/Hospital%20Analytics%20Hospital.png)
 
 ### **🔹 Financial Analytics**
-![Finance]([Images/finance.png](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/main/Hospital%20Analytics%20Finance.png))
+![Finance](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/eedb93f63bb6f03d8ce1c72a5fe3978c9508ab4d/Hospital%20Analytics%20Finance.png)
 
 
 ## Key Insights
