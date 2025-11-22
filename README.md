@@ -22,7 +22,7 @@ The dashboard helps hospital management:
 ## Dashboard Preview
 
 ### **🔹 Home Page**
-![image alt]([[Images/Home_page.png](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/main/Hospital%20Analytics%20Main%20Page.png)](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/main/Hospital%20Analytics%20Overview.png?raw=true))
+![image alt](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/6b073612ea34ea22a1eb82a179ef1731f61f0370/Hospital%20Analytics%20Overview.png)
 
 ### **🔹 Overview Dashboard**
 ![Overview](Images/[overview.png](https://github.com/Keerthana-Hemarao/Hospital-Analytics-Dashboard/blob/main/Hospital%20Analytics%20Overview.png))
